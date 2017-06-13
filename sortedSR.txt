@@ -1,0 +1,210 @@
+6/12/2017 10:19
+Email - Outbound
+JHATTER
+Dear Felipe,    RE: Backup file generated is too small - ~20MB   I understand that is what created the issue, I'm recommending if another one can be performed for a possible faster resolution. I'm still researching other options at this time. Also in the meantime, snapshots or migrate exports are recommended to ensure you have backups of the device.  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725
+
+6/12/2017 9:36
+Email - Inbound
+JHATTER
+Dear, this is a fresh install.  Customer was running R77.20 on ther VM, we did a migrate export/import using R77.30 to a new VM.  Ty.   []’s  Felipe Goulart Serviços - Projetos E-mails: felipe.goulart@ngxit.com.br | b-fegoul@microsoft.com  DDR: 3303-7000  -----Original Message----- From: Check Point Support [mailto:support@checkpoint.com]  Sent: segunda-feira, 12 de junho de 2017 10:12 To: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Subject: UPDATE 1-9460799211 Backup file generated is too small - ~20MB  Dear Felipe,    RE: Backup file generated is too small - ~20MB   Good Morning,  At this time, all of my research is not finding any reason as to why this might be occuring. I can continue to research, however I wanted to offer the option of migration to a fresh install. This path may be the fastest way to resolution at this time. Please let me know how the customer feels about it.  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725 
+
+6/12/2017 8:10
+Email - Outbound
+JHATTER
+Dear Felipe,    RE: Backup file generated is too small - ~20MB   Good Morning,  At this time, all of my research is not finding any reason as to why this might be occuring. I can continue to research, however I wanted to offer the option of migration to a fresh install. This path may be the fastest way to resolution at this time. Please let me know how the customer feels about it.  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725
+
+6/8/2017 10:04
+Email - Inbound
+JHATTER
+Dear Customer,  This email notification was sent to let you know that the secured file upload to Check Point was completed successfully.   File name: Hatter-SMS-R7730_8_6_2017_09_56.info.gz   Uploaded by: jhatter@checkpoint.com   Notified Users:     MD5: efdfb5d9e946d372d121884009d54933    Please feel free to contact us if you require further assistance according to the instructions on this page:   http://www.checkpoint.com/services/contact/      Regards,   Technical Support   Check Point Software Technologies Ltd.   
+
+6/8/2017 9:44
+Email - Inbound
+JHATTER
+Dear Customer,  This email notification was sent to let you know that the secured file upload to Check Point was completed successfully.   File name: SLCCCOSRCP01_8_6_2017_11_24.info.gz   Uploaded by: felipe@toptrend.com.br   Notified Users:     MD5: 9b8fd0d56ab280cdb8e0421218c6f965    Please feel free to contact us if you require further assistance according to the instructions on this page:   http://www.checkpoint.com/services/contact/      Regards,   Technical Support   Check Point Software Technologies Ltd.   
+
+6/8/2017 9:34
+Email - Inbound
+JHATTER
+Dear Customer,  This email notification was sent to let you know that the secured file upload to Check Point was completed successfully.   File name: cpconfig_ex.13092.core.gz   Uploaded by: felipe@toptrend.com.br   Notified Users:     MD5: 35b3d4ab8c9f8fc642864451b6c3a319    Please feel free to contact us if you require further assistance according to the instructions on this page:   http://www.checkpoint.com/services/contact/      Regards,   Technical Support   Check Point Software Technologies Ltd.   
+
+6/8/2017 9:25
+Notes
+JHATTER
+Installed Jumbo 216 after we could not get a backup loaded to restore. Same behaviour. Collected CPINFO for review to research next steps.
+
+6/8/2017 8:27
+Email - Outbound
+JHATTER
+Dear Felipe,    RE: Backup file generated is too small - ~20MB   Logmein123.com  625757  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725
+
+6/8/2017 8:16
+Email - Inbound
+JHATTER
+Please, I with no phone today.  Please, send me the Logmein link. Ty.   []’s  Felipe Goulart Serviços - Projetos E-mails: felipe.goulart@ngxit.com.br | b-fegoul@microsoft.com  DDR: 3303-7000  -----Original Message----- From: Check Point Support [mailto:support@checkpoint.com]  Sent: quinta-feira, 8 de junho de 2017 10:14 To: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Subject: UPDATE 1-9460799211 Backup file generated is too small - ~20MB  Dear Felipe,    RE: Backup file generated is too small - ~20MB   I've tried the number provided by the chat engineer and no one answered. Also the number yesterday I tried no longer works. Please provide a number I can reach you or call in and reference the SR.  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725 
+
+6/8/2017 8:15
+Chat Session
+MAXIMV
+3:55 PM Disconnected (Chat) 3:57 PM Connecting to: www01-005.logmeinrescue.com:443 3:57 PM Connected to Instant Chat 3:58 PM Felipe Goulart: hi 3:59 PM Maxim Vasilyev: one moment please 3:59 PM Felipe Goulart: ok 4:00 PM Maxim Vasilyev: could please provide a direct phone number 4:00 PM Maxim Vasilyev: He will contact you shortly.  4:02 PM Felipe Goulart: As I spoke yesterday with him, the preferred contact is the email, my English is not good to speak. 4:03 PM Maxim Vasilyev: Just spoke with him, he asked to provide the phone number, in order to contact you, is it fine with you?  4:05 PM Felipe Goulart: You do not have the possibility to contact me by e-mail? We have already done this in several cases. 4:06 PM Maxim Vasilyev: can you update 1-9460799211 service request? I believe he will answer you over the case 4:08 PM Felipe Goulart: my contact 4:08 PM Felipe Goulart: +555198462548 4:08 PM Maxim Vasilyev: ok, Thanks, i will let him know. 4:09 PM Maxim Vasilyev: Is there anything else regarding this issue I can assist with? 4:13 PM Felipe Goulart: no, is just this 4:13 PM Maxim Vasilyev: ok, thanks. Have a nice day!  4:15 PM The technician ended the session. 
+
+6/8/2017 8:13
+Email - Outbound
+JHATTER
+Dear Felipe,    RE: Backup file generated is too small - ~20MB   I've tried the number provided by the chat engineer and no one answered. Also the number yesterday I tried no longer works. Please provide a number I can reach you or call in and reference the SR.  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725
+
+6/8/2017 8:08
+Web - Inbound
+SADMIN
+Hello Joshua, I^m waiting for your contact, I^m chatting with Maxim Vasilyev.
+
+6/8/2017 7:55
+Chat Session
+MAXIMV
+3:51 PM Connecting to: www01-005.logmeinrescue.com:443 3:51 PM Connected to Instant Chat 3:51 PM Maxim Vasilyev: Hello and welcome to Check Point Live chat service. How may I assist? 3:52 PM Felipe Goulart: Hello 3:53 PM Felipe Goulart: i have a schedule with Joshua Hatter 3:53 PM Maxim Vasilyev: I would like to make sure this issue is handled by a product expert; therefore, I am transferring this chat to the team which specializes in these situations. 3:55 PM Felipe Goulart: is about the case 1-9460799211, correct? 3:55 PM Transferring session to Technical Support -Dallas 
+
+6/7/2017 12:44
+Chat Session
+SAIKAWA
+1:35 PM Connecting to: www04-007.logmeinrescue.com:443 1:35 PM Connected to Instant Chat 1:36 PM Shintaro Aikawa: Hello. How can I help you? 1:38 PM Shintaro Aikawa: Hello, are you still there? 1:42 PM Shintaro Aikawa: Hello, sorry, if I do not receive any response in next couple of minutes, the chat session will force to be closed but if you require any assistance, please feel free to contact us, so that our agents can assist you. Our support numbers are as below. Thank you for understanding.  Americas: +1(888)361-5030, +1(972)444-6600, +1(613)271-7950 EMEA/Other Countries: +972-3-611-5100 Australia: 1800-805-793 China: +86-1084181958 Japan: +81-353-672-530 New Zealand: 0800-443-601 United Kingdom: 0808-101-7399 1:44 PM The technician ended the session. 
+
+6/7/2017 12:15
+Call - Outbound
+JHATTER
+Check in /var/CPbackup/scheme for the appropriate files. mgmts. does not exist.   Requested we test one of the restores to be sure they do not work.
+
+6/7/2017 10:24
+Notes
+JHATTER
+
+
+6/7/2017 7:48
+Email - Inbound
+JHATTER
+Hi Joshua,  Remote access scheduled today 2:00 pm (GMT -3)  Everton Gonçalves Serviços everton.goncalves@ngxit.com.br DDR: (51) 3303-7000    Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002 Fone: 51 3303.7000               -----Mensagem original----- De: Check Point Support [mailto:support@checkpoint.com]  Enviada em: terça-feira, 6 de junho de 2017 10:03 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Assunto: UPDATE 1-9460799211 Backup file generated is too small - ~20MB  Dear Felipe,    RE: Backup file generated is too small - ~20MB   Good Morning,  I would like to schedule a remote session to help diagnose the issue. Can you provide best times for you so we can do a remote session?  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725 
+
+6/7/2017 7:47
+Chat Session
+IMANUELM
+3:25 PM Connecting to: www01-010.logmeinrescue.com:443 3:25 PM Connected to Instant Chat 3:25 PM Imanuel Mizrahi: Welcome to Check Point live chat service. How may I assist you? 3:27 PM Felipe Goulart: hi 3:27 PM Felipe Goulart: can i talk with Joshua Hatter? 3:28 PM Imanuel Mizrahi: Just a minute please, let me check availability  3:29 PM Felipe Goulart: Ok 3:30 PM Felipe Goulart: I would like to schedule a remote access 3:31 PM Imanuel Mizrahi: Do you have a case with him? 3:33 PM Felipe Goulart: yes 3:33 PM Felipe Goulart: 1-9460799211 3:34 PM Felipe Goulart: The case was being handled by Santhiya, who requested remote access, scheduled with the client and never had a return. Day 05, Joshua informed that he is the new person in charge of the case. I need to schedule it with him and my client.  3:34 PM Imanuel Mizrahi: On the case activities, i can see that the engineer asked you for time slots for a remote session, you can update in the case if this is possible. 3:36 PM Felipe Goulart: This had already been done but I had no answer. 3:37 PM Imanuel Mizrahi: OK, i will try to call him, please hold 3:38 PM Felipe Goulart: ok, the customer is availabla today 2:00pm (GMT -3) 3:39 PM Imanuel Mizrahi: Do you want me to update the ticket with this info? 3:40 PM Felipe Goulart: yes  3:41 PM Imanuel Mizrahi: Currently he is busy, he asked you to provide him with a phone number and he will contact you in half an hour or so. 3:42 PM Imanuel Mizrahi: In addition, i will leave a note in the ticket for the remote session time slot 3:43 PM Imanuel Mizrahi: Are you there? 3:43 PM Felipe Goulart: My English is too bad to speak, can I contact myself by email? 3:43 PM Imanuel Mizrahi: Yes, of course, you can send an email in the ticket 3:43 PM Imanuel Mizrahi: Your phone number is: "+55 51 82170053"? 3:44 PM Imanuel Mizrahi: I put a note in the case with your request. You want me to ask the engineer to contact you via email 3:45 PM Felipe Goulart: Ok thanks 3:45 PM Imanuel Mizrahi: OK, i will ask him to contact you via email. 3:46 PM Imanuel Mizrahi: Do you require anything else? 3:46 PM Felipe Goulart: ok 3:46 PM Imanuel Mizrahi: ? 3:47 PM Felipe Goulart: No, just this 3:47 PM Imanuel Mizrahi: Good  3:47 PM Imanuel Mizrahi: I will proceed and close this chat session 3:47 PM Imanuel Mizrahi: Have a great day sir! 3:47 PM Imanuel Mizrahi: Good bye! 3:47 PM The technician ended the session. 
+
+6/7/2017 7:42
+Notes
+IMANUELM
+The customer would like to have the remote session today at: 2:00pm (GMT -3). He said his english is bad so he asks to contact him via email.  Thanks!
+
+6/6/2017 8:02
+Email - Outbound
+JHATTER
+Dear Felipe,    RE: Backup file generated is too small - ~20MB   Good Morning,  I would like to schedule a remote session to help diagnose the issue. Can you provide best times for you so we can do a remote session?  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725
+
+5/31/2017 14:11
+Email - Outbound
+JHATTER
+Dear Felipe,    RE: Backup file generated is too small - ~20MB   Good Afteroon,  My name is Joshua and the SR has been assigned to my care. I am reviewing the case notes and I will follow up with next steps.  Regards, Joshua Hatter Working hours: 8am - 5pm CDT (GMT -5) Check Point Engineer Check Point Software Technologies - "We Secure the Internet"  Americas: +1 (972) 444 6600 /  +1 (613) 271 7950 / +1 (888) 361 5030                            APAC +61 (28) 014 9211 EMEA +972-3-611-5100    TAC contact information - http://www.checkpoint.com/services/contact/index.html     For Escalation purposes only, please contact:  Brandon Mercer Team Manager - High End Email: bmercer@checkpoint.com Tel: (972)-444-6725
+
+5/30/2017 13:25
+Chat Session
+SAIKAWA
+2:17 PM Connecting to: www01-009.logmeinrescue.com:443 2:17 PM Connected to Instant Chat 2:17 PM Shintaro Aikawa: Hello. How can I help you? 2:21 PM Shintaro Aikawa: Hello, are you still there? 2:22 PM Shintaro Aikawa: Hello, sorry, if I do not receive any response in next couple of minutes, the chat session will force to be closed but if you require any assistance, please feel free to contact us, so that our agents can assist you. Our support numbers are as below. Thank you for understanding.  Americas: +1(888)361-5030, +1(972)444-6600, +1(613)271-7950 EMEA/Other Countries: +972-3-611-5100 Australia: 1800-805-793 China: +86-1084181958 Japan: +81-353-672-530 New Zealand: 0800-443-601 United Kingdom: 0808-101-7399 2:25 PM The technician ended the session. 
+
+5/30/2017 7:24
+Web - Inbound
+SADMIN
+Good Morning! Customer authorized remote access on 06/01, Thursday from 8:00 (GMT -3). Can we schedule this date? 
+
+5/26/2017 16:27
+Internal
+SVENKATA
+[TICKET] 1-9460799211  [CUSTOMER DETAILS] **Name** Felipe **Phone** (51) 3303-7000 - per his signature  [ISSUE] **Current status** Backup file generated is too small - ~20MB   [PRODUCT DETAILS] **Appliance** OpenServer **Version** R77.30 **Jumbo** -  [TROUBLESHOOTING STEPS] Both manual and scheduled backup has same issue. Backup file created successfully. But the file size is around 20MB. We suspect if the file holds the complete backup though. See relevant screenshots attached. Tar file is attached that contains CPbackup.elg ------------------------------------- On analysis of CPbackup.elg::  'generic_backup': Executing <tar -C / -zcvf backup_SLCCCOSRCP01.fg.net_19_May_2017_11_05.tgz --ignore-failed-read -T /tmp/temp_tar_include_6178.txt -X /tmp/temp_tar_exclude_6178.txt 2>&1>  -T -- include the files from this directory -X -- exclude files from this directory  -ignore-failed-read -- don’t exit with non-zero status on unreadable files  [NEXT STEPS] Per sk98873 (even though its not MDS, worth trying this sk) Is to see if /var/tmp is included for the backup. Check it in /tmp/temp_tar_include_6178.txt  [NOTE] Customer is very slow to respond. Doesn’t provide contact number.
+
+5/25/2017 18:03
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  On analysis of CPbackup.elg::  'generic_backup': Executing <tar -C / -zcvf backup_SLCCCOSRCP01.fg.net_19_May_2017_11_05.tgz --ignore-failed-read -T /tmp/temp_tar_include_6178.txt -X /tmp/temp_tar_exclude_6178.txt 2>&1>  -T -- include the files from this directory -X -- exclude files from this directory  -ignore-failed-read -- don’t exit with non-zero status on unreadable files   Next steps:: Is to see if /var/tmp is included for the backup. Check it in /tmp/temp_tar_include_6178.txt   I would like to have a remote session with you on this. I tried to reach you at (51) 3303-7000. but unreachable. Could you please call us in at +1 972-444-6600.       Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/25/2017 17:45
+Call - Outbound
+SVENKATA
+Reached at (51) 3303-7000. Call cannot be completed as dialed.
+
+5/24/2017 13:29
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  I havent got the file yet. Can you please attach it to the ticket.       Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/24/2017 12:46
+Email - Inbound
+SVENKATA
+Yes.  Everton Gonçalves Serviços everton.goncalves@ngxit.com.br DDR: (51) 3303-7000    Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002 Fone: 51 3303.7000               -----Mensagem original----- De: Check Point Partner Alliance [mailto:support@checkpoint.com]  Enviada em: terça-feira, 23 de maio de 2017 19:28 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Assunto: UPDATE 1-9460799211 Backup does not run  Dear Felipe, RE: Backup does not run  What is meant by "Follow the file", do you mean you have sent the file to me???     Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/23/2017 17:27
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  What is meant by "Follow the file", do you mean you have sent the file to me???     Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/23/2017 15:22
+Email - Inbound
+SVENKATA
+Follow the file   Everton Gonçalves Serviços everton.goncalves@ngxit.com.br DDR: (51) 3303-7000    Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002 Fone: 51 3303.7000               -----Mensagem original----- De: Check Point Partner Alliance [mailto:support@checkpoint.com]  Enviada em: terça-feira, 23 de maio de 2017 10:39 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Assunto: UPDATE 1-9460799211 Backup does not run  Dear Felipe, RE: Backup does not run  As per you request, I will extend to keep this ticket open until EOD thursday.      Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/23/2017 14:24
+Email - Inbound
+SVENKATA
+Hi Santhiya,  Yes, I receive your e-mail. I Requested to the customer the information and I'm still waiting for the return. When i have any information, i send for you. Thanks  Everton Gonçalves Serviços everton.goncalves@ngxit.com.br DDR: (51) 3303-7000    Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002 Fone: 51 3303.7000               -----Mensagem original----- De: Check Point Partner Alliance [mailto:support@checkpoint.com]  Enviada em: terça-feira, 23 de maio de 2017 10:07 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Assunto: UPDATE 1-9460799211 Backup does not run  Dear Felipe, RE: Backup does not run  Did you happen to read my previous email??  Could you please send me the file 'CPbackup.elg', found in /var/log/ folder.  I will keep this ticket open until EOD today. On no updates, I will have to soft close the ticket. Thank you.       Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/23/2017 8:38
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  As per you request, I will extend to keep this ticket open until EOD thursday.      Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/23/2017 8:32
+Email - Inbound
+SVENKATA
+Yes, sorry for a delay on this answer.  Customer had some personal healthily issue. Can we keep this case open until Thursday?   []’s  Felipe Goulart Serviços - Projetos E-mails: felipe.goulart@ngxit.com.br | b-fegoul@microsoft.com  DDR: 3303-7000  -----Original Message----- From: Check Point Partner Alliance [mailto:support@checkpoint.com]  Sent: terça-feira, 23 de maio de 2017 10:07 To: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Subject: UPDATE 1-9460799211 Backup does not run  Dear Felipe, RE: Backup does not run  Did you happen to read my previous email??  Could you please send me the file 'CPbackup.elg', found in /var/log/ folder.  I will keep this ticket open until EOD today. On no updates, I will have to soft close the ticket. Thank you.       Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/23/2017 8:06
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  Did you happen to read my previous email??  Could you please send me the file 'CPbackup.elg', found in /var/log/ folder.  I will keep this ticket open until EOD today. On no updates, I will have to soft close the ticket. Thank you.       Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/19/2017 17:19
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  Could you please send me the file 'CPbackup.elg', found in /var/log/ folder.  This will show if there are any errors.     Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/19/2017 15:50
+Call - Outbound
+SVENKATA
+Reached out at +55 51 82170053. not reachable
+
+5/19/2017 14:07
+Call - Outbound
+SVENKATA
+Reached out at +55 51 82170053. not reachable
+
+5/19/2017 9:40
+Email - Inbound
+SVENKATA
+Follow the answers:   I need more details to determine the next steps:  Is it a multi-domain management server??  No, it’s not  What is the size of the file??  28.86Mb    Could you provide me a screenshot of the successful backup in webUI??    [cid:image001.png@01D2D090.27E5DF10]    Do you have a sample of previous backup files and what is the expected file size??    Normally the size are more 500 Mb    [cid:image002.png@01D2D090.27E5DF10]      Everton Gonçalves Serviços  everton.goncalves@ngxit.com.br<mailto:everton.goncalves@ngxit.com.br> DDR: (51) 3303-7000    [cid:image001.png@01D1862A.F51C0E20]    Av. Cristóvão Colombo, 2240 - 7ºAndar Floresta | Porto Alegre – RS | 90560-002 Fone: 51 3303.7000  [cid:image002.png@01D1862A.F51C0E20]<http://www.cloud2go.com.br/>    [cid:image003.png@01D1862A.F51C0E20] <http://www.grupongx.com.br/>      [cid:image004.png@01D1862A.F51C0E20]<https://www.facebook.com/NGXit?fref=ts>[cid:image005.png@01D1862A.F51C0E20]<https://www.linkedin.com/company/2971098?trk>[cid:image005.png@01D1862A.F51C0E20]<https://twitter.com/ngxit>     De: NGXit - Everton Gonçalves Enviada em: sexta-feira, 19 de maio de 2017 11:36 Para: 'support@checkpoint.com' <support@checkpoint.com>; NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br> Assunto: RES: UPDATE 1-9460799211 Backup does not run       Everton Gonçalves  Serviços  everton.goncalves@ngxit.com.br<mailto:everton.goncalves@ngxit.com.br>  DDR: (51) 3303-7000        Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002  Fone: 51 3303.7000                    -----Mensagem original----- De: Check Point Partner Alliance [mailto:support@checkpoint.com] Enviada em: quinta-feira, 18 de maio de 2017 18:59 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br<mailto:felipe.goulart@ngxit.com.br>>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br<mailto:everton.goncalves@ngxit.com.br>> Assunto: UPDATE 1-9460799211 Backup does not run    Dear Felipe,  RE: Backup does not run    Thank you for the information. So now looks like your backup is successful,  but the size of the file size is too small and doesn't look like it’s the complete backup.    I need more details to determine the next steps:  Is it a multi-domain management server??  No, it’s not  What is the size of the file??  28.86Mb    Could you provide me a screenshot of the successful backup in webUI??    [cid:image001.png@01D2D090.27E5DF10]    Do you have a sample of previous backup files and what is the expected file size??    Normally the size are more 500 Mb    [cid:image002.png@01D2D090.27E5DF10]      Regards,  Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd.  Working Hours: M-F 8am-5pm CDT  Email: svenkata@checkpoint.com<mailto:svenkata@checkpoint.com>    Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:    Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com<mailto:gavant@checkpoint.com>    Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/19/2017 9:38
+Email - Inbound
+SVENKATA
+    Everton Gonçalves  Serviços  everton.goncalves@ngxit.com.br  DDR: (51) 3303-7000        Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002  Fone: 51 3303.7000                    -----Mensagem original----- De: Check Point Partner Alliance [mailto:support@checkpoint.com] Enviada em: quinta-feira, 18 de maio de 2017 18:59 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Assunto: UPDATE 1-9460799211 Backup does not run    Dear Felipe,  RE: Backup does not run    Thank you for the information. So now looks like your backup is successful,  but the size of the file size is too small and doesn't look like it’s the complete backup.    I need more details to determine the next steps:  Is it a multi-domain management server??  No, it’s not  What is the size of the file??  28.86Mb    Could you provide me a screenshot of the successful backup in webUI??    [cid:image001.png@01D2D090.27E5DF10]    Do you have a sample of previous backup files and what is the expected file size??    Normally the size are more 500 Mb    [cid:image002.png@01D2D090.27E5DF10]      Regards,  Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd.  Working Hours: M-F 8am-5pm CDT  Email: svenkata@checkpoint.com<mailto:svenkata@checkpoint.com>    Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:    Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com<mailto:gavant@checkpoint.com>    Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/18/2017 16:58
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  Thank you for the information. So now looks like your backup is successful,  but the size of the file size is too small and doesn't look like it’s the complete backup.   I need more details to determine the next steps: Is it a multi-domain management server?? What is the size of the file?? Could you provide me a screenshot of the successful backup in webUI??  Do you have a sample of previous backup files and what is the expected file size??      Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
+5/18/2017 9:02
+Email - Inbound
+SVENKATA
+Dear,  Follow the answers:  On which machine are you taking the backup??  In the Manager  Is the manual backup failing or scheduled backup failing?? Manual bkp run on Gaia  Are you taking a backup locally or sending it to a remote server??  Do you see any error message on failure???  Both  No error messages, just finish a small file   Can you run the following command on the machine on which backup is run and send me the output- # df -h  [Expert@SLCCCOSRCP01:0]# df -h Filesystem            Size  Used Avail Use% Mounted on /dev/mapper/vg_splat-lv_current                        33G  8.2G   23G  27% / /dev/sda1             289M   24M  251M   9% /boot tmpfs                 4.0G     0  4.0G   0% /dev/shm /dev/mapper/vg_splat-lv_log                        49G   24G   24G  51% /var/log [Expert@SLCCCOSRCP01:0]#  Everton Gonçalves Serviços everton.goncalves@ngxit.com.br DDR: (51) 3303-7000    Av. Cristóvão Colombo, 2240 - 7ºAndar  Floresta | Porto Alegre – RS | 90560-002 Fone: 51 3303.7000               -----Mensagem original----- De: Check Point Partner Alliance [mailto:support@checkpoint.com]  Enviada em: quarta-feira, 17 de maio de 2017 16:42 Para: NGXit - Felipe Goulart <felipe.goulart@ngxit.com.br>; NGXit - Everton Gonçalves <everton.goncalves@ngxit.com.br> Assunto: UPDATE 1-9460799211 Backup does not run  Dear Felipe, RE: Backup does not run  Thank you for contacting Check Point. Your service request has been assigned to me.  On which machine are you taking the backup?? Is the manual backup failing or scheduled backup failing?? Are you taking a backup locally or sending it to a remote server?? Do you see any error message on failure??? Can you run the following command on the machine on which backup is run and send me the output- # df -h      Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant  Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950 APAC +61 (28) 014 9211 EMEA +972-3-611-5100 TAC contact information - http://www.checkpoint.com/services/contact/index.html 
+
+5/17/2017 14:41
+Email - Outbound
+SVENKATA
+Dear Felipe, RE: Backup does not run  Thank you for contacting Check Point. Your service request has been assigned to me.  On which machine are you taking the backup?? Is the manual backup failing or scheduled backup failing?? Are you taking a backup locally or sending it to a remote server?? Do you see any error message on failure??? Can you run the following command on the machine on which backup is run and send me the output- # df -h      Regards, Santhiya Venkataraman (Sandy) - CCSA | CCSE Support Engineer- Dallas TAC  Checkpoint Software Technologies, Ltd. Working Hours: M-F 8am-5pm CDT Email: svenkata@checkpoint.com   Our goal is to provide you excellent service. If you have any comments or concerns about our service,  feel free to contact my manager:  Gail Avant   Group Manager, Dallas Technical Assistance Center  Office Phone: +1.972.444.6503  Email: gavant@checkpoint.com  Americas: +1 (888) 361 5030/+1, +1 (972) 444 6600,  +1 (613) 271 7950  APAC +61 (28) 014 9211 EMEA +972-3-611-5100  TAC contact information - http://www.checkpoint.com/services/contact/index.html
+
