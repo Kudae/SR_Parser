@@ -37,15 +37,11 @@ for row in dict_data:
     for key in row:
         if key in wanted:
             new_file.write('{} == {}<br>'.format(key, row[key]))
-            #print('{} == {}'.format(key, row[key]))
     new_file.write('<br>')
     new_file.write('= = = = = = ' * 5)
     new_file.write('= = = = = = ' * 5)
     new_file.write('= = = = = = ' * 5)
     new_file.write('<br>')
-    #print('\n')
-    #print('-    -    '  * 5)
-    #print('\n')
 
 new_file.write('<p>')
 new_file.close()
