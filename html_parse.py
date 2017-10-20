@@ -42,7 +42,7 @@ for row in dict_data:
     new_file.write('<br>')
     new_file.write('= = = = = = ' * 5 + '<br>')
     new_file.write('= = = = = = ' * 5 + '<br>')
-    new_file.write('= = = = = = ' * 5 + '<br>')
+    new_file.write('= = = = = = ' * 5)
     new_file.write('<br>')
 
 new_file.write('<p>')
