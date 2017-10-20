@@ -28,19 +28,21 @@ for row in datasets:
     row = list(row)
     dict_data.append(dict(row))
 
-wanted = ['Activity Type', 'Description', 'Created', 'Comment']
+wanted = ['Activity Type', 'Description', 'Created', 'Comment', 'Created By']
 
 new_file = open('new_file.html', 'w+')
 new_file.write('<p>')
 
 for row in dict_data:
+    if row['Activity Type'] == 'Email - Outbound' and row['Assigned To'] == 'SADMIN':
+        continue
     for key in row:
         if key in wanted:
             new_file.write('{} == {}<br>'.format(key, row[key]))
     new_file.write('<br>')
-    new_file.write('= = = = = = ' * 5)
-    new_file.write('= = = = = = ' * 5)
-    new_file.write('= = = = = = ' * 5)
+    new_file.write('= = = = = = ' * 5 + '<br>')
+    new_file.write('= = = = = = ' * 5 + '<br>')
+    new_file.write('= = = = = = ' * 5 + '<br>')
     new_file.write('<br>')
 
 new_file.write('<p>')
